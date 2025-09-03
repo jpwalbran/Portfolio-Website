@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+axum = "0.8.4"
+hyper = "1.7.0"
+tokio = "1.47.1"
