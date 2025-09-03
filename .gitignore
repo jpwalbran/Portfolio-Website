@@ -30,4 +30,4 @@ yarn-error.log*
 
 #Rust specific
 server/target/
-server/Cargo.lock
+server/*.lock
