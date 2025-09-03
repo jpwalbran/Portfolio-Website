@@ -29,7 +29,5 @@ yarn-error.log*
 
 
 #Rust specific
-/target/
-**/*.rs.bk
-**/*.rs.swp
-**/*.rs.swo
+server/target/
+server/Cargo.lock
